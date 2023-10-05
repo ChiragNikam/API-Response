@@ -1,0 +1,86 @@
+[
+    {
+        "id": "0ca474fb-f6f9-49b0-bea4-08dbc379fcd3",
+        "memberName": "John Doe",
+        "mobileNo": "123-456-7890",
+        "email": "johndoe@example.com",
+        "choosePlane": "Gold Plan",
+        "payStatus": true,
+        "amountPaid": "100.00",
+        "dateOfBirth": "1990-01-15",
+        "gender": "Male",
+        "assignPersonalTrainer": "Trainer Name"
+    },
+    {
+        "id": "39763b2a-256d-4158-bea5-08dbc379fcd3",
+        "memberName": "Chirag Nikam",
+        "mobileNo": "7878900324",
+        "email": "ch@example.com",
+        "choosePlane": "1 Month",
+        "payStatus": true,
+        "amountPaid": "1000.00",
+        "dateOfBirth": "2000-01-06",
+        "gender": "Male",
+        "assignPersonalTrainer": "Ramlal"
+    },
+    {
+        "id": "152f4e9a-2fc5-483c-bea6-08dbc379fcd3",
+        "memberName": "Chirag Nikam",
+        "mobileNo": "7878900756",
+        "email": "ch@example.com",
+        "choosePlane": "1 Month",
+        "payStatus": true,
+        "amountPaid": "1000.00",
+        "dateOfBirth": "2000-01-06",
+        "gender": "Male",
+        "assignPersonalTrainer": "Ramlal"
+    },
+    {
+        "id": "02b6b916-6599-4c1f-445c-08dbc5707976",
+        "memberName": "Jane Smith",
+        "mobileNo": "987-654-3210",
+        "email": "janesmith@example.com",
+        "choosePlane": "Silver Plan",
+        "payStatus": true,
+        "amountPaid": "75.00",
+        "dateOfBirth": "1985-03-20",
+        "gender": "Female",
+        "assignPersonalTrainer": "Trainer Name"
+    },
+    {
+        "id": "fdcc275a-0c43-4a16-445d-08dbc5707976",
+        "memberName": "Michael Johnson",
+        "mobileNo": "555-555-5555",
+        "email": "michael@example.com",
+        "choosePlane": "Platinum Plan",
+        "payStatus": false,
+        "amountPaid": "0.00",
+        "dateOfBirth": "1970-11-05",
+        "gender": "Male",
+        "assignPersonalTrainer": "Trainer Name"
+    },
+    {
+        "id": "a06e4054-44be-499f-445f-08dbc5707976",
+        "memberName": "Sarah Brown",
+        "mobileNo": "555-123-4567",
+        "email": "sarah@example.com",
+        "choosePlane": "Bronze Plan",
+        "payStatus": true,
+        "amountPaid": "50.00",
+        "dateOfBirth": "1995-07-10",
+        "gender": "Female",
+        "assignPersonalTrainer": "Trainer Name"
+    },
+    {
+        "id": "259262e7-ba95-43f9-4460-08dbc5707976",
+        "memberName": "David Wilson",
+        "mobileNo": "777-888-9999",
+        "email": "david@example.com",
+        "choosePlane": "Silver Plan",
+        "payStatus": true,
+        "amountPaid": "75.00",
+        "dateOfBirth": "1980-02-28",
+        "gender": "Male",
+        "assignPersonalTrainer": "Trainer Name"
+    }
+]
